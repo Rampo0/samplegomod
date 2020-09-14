@@ -1,0 +1,2 @@
+# samplegomod
+testing gomod
